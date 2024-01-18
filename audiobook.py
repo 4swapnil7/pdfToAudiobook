@@ -377,7 +377,7 @@ message in the below text box
     e2 = tk.Entry(master=Frame1, textvariable=value, bd=3)
     e2.place(x=200, y=350, width=100, height=30)
 
-    # play = Image.open('C:/Users/AVINASH/Desktop/play.jpg')
+    # play = Image.open('C:/Users/SWAPNIL/Desktop/play.jpg')
     # play_image=ImageTk.PhotoImage(play)
 
     b1 = tk.Button(Frame1, text="play", width=10, command=play_check)
